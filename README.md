@@ -8,7 +8,7 @@
 
 ###  About Me
  
-I started my IT journey with a technical course in Information Systems and Computer Engineering. Since then, I’ve gained hands-on experience in Helpdesk and hardware repair. I’m currently working as a Local IT Trainee at Forvia, expanding my skills in IT operations and support.
+I started my IT journey with a technical course in Information Systems and Computer Engineering. Since then, I’ve gained professional experience in Helpdesk and Hardware repair. I’m currently working as a Local IT Trainee at Forvia, expanding my IT operations and support skills.
 
 On the side, I’m launching a food business with my fiancée and studying game development in Unity with C# for fun.
 
