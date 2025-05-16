@@ -18,7 +18,7 @@ On the side, I’m launching a food business with my fiancée and studying game 
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,java,html,css" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java" alt="languages" />
 </p>
 
 #### 🛠️ Tools & Platforms
