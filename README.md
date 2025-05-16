@@ -59,7 +59,11 @@ On the side, I’m launching a food business with my fiancée and studying game 
 
 ---
 
-### 🤝 Connect with Me
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> <p> 🤝 Connect with Me </p> </h1></summary>
+  </ul>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-pdias/" target="_blank">
