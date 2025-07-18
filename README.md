@@ -1,7 +1,7 @@
 <h1 align="center">Rafael Dias</h1>
 
 <p align="center">
-  💼 IT Trainee @ Forvia | 🎮 Game Developer | 🍽️ Food Business
+  💼 Local IT Trainee @ Forvia | 🍽️ Food Business
 </p>
 
 ---
@@ -10,7 +10,7 @@
  
 I started my IT journey with a technical course in Information Systems and Computer Engineering. Since then, I’ve gained professional experience in Helpdesk and Hardware repair. I’m currently working as a Local IT Trainee at Forvia, expanding my IT operations and support skills.
 
-On the side, I’m launching a food business with my fiancée and studying game development in Unity with C# for fun.
+On the side, I’m launching a food business with my fiancée :)
 
 ---
 
@@ -18,7 +18,7 @@ On the side, I’m launching a food business with my fiancée and studying game 
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,java" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=c,cs" alt="languages" />
 </p>
 
 #### 🛠️ Tools & Platforms
@@ -37,7 +37,6 @@ On the side, I’m launching a food business with my fiancée and studying game 
 
 - 🎓 Graduated from **TGPSI @ INETE (2023)**
 - 📖 Currently learning and improving:
-  - Unity & C# game development
   - IT operations and support
   - Business & entrepreneurship
 
