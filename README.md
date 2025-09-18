@@ -1,7 +1,7 @@
 <h1 align="center">Rafael Dias</h1>
 
 <p align="center">
-  💼 Local IT Trainee @ Forvia | 🍽️ Food Business
+  💼 Local IT Trainee @ Forvia
 </p>
 
 ---
@@ -10,7 +10,7 @@
  
 I started my IT journey with a technical course in Information Systems and Computer Engineering. Since then, I’ve gained professional experience in Helpdesk and Hardware repair. I’m currently working as a Local IT Trainee at Forvia, expanding my IT operations and support skills.
 
-On the side, I’m launching a food business with my fiancée :)
+On the side, I’m planning to launch a food business with my fiancée :)
 
 ---
 
@@ -18,7 +18,7 @@ On the side, I’m launching a food business with my fiancée :)
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,lua" alt="languages" />
 </p>
 
 #### 🛠️ Tools & Platforms
