@@ -1,7 +1,7 @@
 <h1 align="center">Rafael Dias</h1>
 
 <p align="center">
-  💼 Local IT Trainee @ Appning by FORVIA
+  💼 IT Trainee @ Appning by FORVIA
 </p>
 
 ---
