@@ -10,8 +10,6 @@
  
 I started my IT journey with a technical course in Information Systems and Computer Engineering. Since then, I’ve gained professional experience in Helpdesk and Hardware repair. I’m currently working as an IT Trainee at Appning by FORVIA, expanding my IT operations and support skills.
 
-On the side, I’m planning to launch a food business with my fiancée :)
-
 ---
 
 ### Skills & Technologies
@@ -38,7 +36,6 @@ On the side, I’m planning to launch a food business with my fiancée :)
 - 🎓 Graduated from **TGPSI @ INETE (2023)**
 - 📖 Currently learning and improving:
   - IT operations and support
-  - Business & entrepreneurship
 
 ---
 
